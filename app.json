@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "App_Thue_Xe",
+    "name": "Xe Ngay",
     "slug": "App_Thue_Xe",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.kvpya1102.App_Thue_Xe"
     },
     "web": {
       "favicon": "./assets/favicon.png"

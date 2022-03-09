@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.formProduct{
+    margin-top: 6vh;
+}
+.form__header{
+    flex-direction: row-reverse;
+}
+.form__content{
+    margin-top: 20px;
+}
+.footer{
+    margin-top: 10vh;
+}
+.btn__upload{
+    margin-top: 6vh;
+}
+.btn__process{
+    flex-direction:row;
+    justify-content: space-evenly;
+    display: flex;
+}
+.image #image_product{
+    height: 30vh;
+    width: 40vh;
+}
+.form-label{
+    margin-right: 20px;;
+}
